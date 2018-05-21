@@ -5,8 +5,8 @@ Requisitos, pasos y notas sobre la instalación de un nodo RSKj.
 
 1.  Instalar Java 8
 2.  Descargar el fichero <a href="https://github.com/rsksmart/rskj/releases/download/BAMBOO-0.4.2/rskj-core-0.4.2-BAMBOO-all.jar">rskj-core-0.4.2-BAMBOO-all.jar</a>
-3.  Generar los claves e identificadores del nodo asi: 
-    roote@nlp:/home/rsksmart# java -cp rsk—core-O.4.2-BAMBO—all.jar co.rsk.GenNodeKeyId
+3.  Generar los claves e identificadores del nodo asi:<br> 
+    roote@nlp:/home/rsksmart# java -cp rsk—core-O.4.2-BAMBO—all.jar co.rsk.GenNodeKeyId<br>
     {
         “privateXey": "3aSsBSbOa3XXXXXXXXXXXX69lfaddS2ecccqc94ocfl9fc964a7fodc9d2b2daelS3eaqccfb59",
         "publicKey": "0406e4abl25i44c9602XXXXXXXXXXXXXXXXXXc4badOlB39bildedB9ccS9f466b3baeSlf3ZOd9edfeef7SS3fa6Zef4Bbb4f44e4O6dlSci"
